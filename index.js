@@ -1,2 +1,3 @@
-import RNCubeTransition from './RNCubeTransition';
-export default RNCubeTransition;
+import { requireNativeComponent } from 'react-native';
+
+export const RNCubeTransition = requireNativeComponent('RNCubeTransition', null);

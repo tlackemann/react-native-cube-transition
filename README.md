@@ -18,8 +18,9 @@ Link the framework in XCode.
 
 * Right click _Libraries_
 * Add Files to _[Your Project's Name]_
-* Go to `node_modules/react-native-cube-transition/RNCubeTransition`
+* Go to `node_modules/react-native-cube-transition`
 * Add the `.xcodeproj` file
+* Add the `libRNCubeTransition.a` file under `Libraries > RNCubeTransition.xcodeproj > Products` to your project's `Build Phases > Link Binary With Libraries`
 
 ### Android
 
