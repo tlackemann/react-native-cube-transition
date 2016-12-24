@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		E20AC97C1E0EFADD005C2EB1 /* RNCubeTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = E20AC97B1E0EFADD005C2EB1 /* RNCubeTransition.m */; };
 		E20AC97D1E0EFADD005C2EB1 /* RNCubeTransition.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = E20AC97A1E0EFADD005C2EB1 /* RNCubeTransition.h */; };
+		E20AC9841E0EFB0F005C2EB1 /* RNCubeTransitionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E20AC9831E0EFB0F005C2EB1 /* RNCubeTransitionManager.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,8 @@
 		E20AC9771E0EFADD005C2EB1 /* libRNCubeTransition.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNCubeTransition.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		E20AC97A1E0EFADD005C2EB1 /* RNCubeTransition.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNCubeTransition.h; sourceTree = "<group>"; };
 		E20AC97B1E0EFADD005C2EB1 /* RNCubeTransition.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNCubeTransition.m; sourceTree = "<group>"; };
+		E20AC9831E0EFB0F005C2EB1 /* RNCubeTransitionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNCubeTransitionManager.m; sourceTree = "<group>"; };
+		E20AC9851E0EFB3F005C2EB1 /* RNCubeTransitionManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNCubeTransitionManager.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 			children = (
 				E20AC97A1E0EFADD005C2EB1 /* RNCubeTransition.h */,
 				E20AC97B1E0EFADD005C2EB1 /* RNCubeTransition.m */,
+				E20AC9831E0EFB0F005C2EB1 /* RNCubeTransitionManager.m */,
+				E20AC9851E0EFB3F005C2EB1 /* RNCubeTransitionManager.h */,
 			);
 			path = RNCubeTransition;
 			sourceTree = "<group>";
@@ -125,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E20AC97C1E0EFADD005C2EB1 /* RNCubeTransition.m in Sources */,
+				E20AC9841E0EFB0F005C2EB1 /* RNCubeTransitionManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

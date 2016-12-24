@@ -2,12 +2,12 @@
 //  RNCubeTransition.h
 //  RNCubeTransition
 //
-//  Created by Thomas Lackemann on 12/24/16.
-//  Copyright © 2016 Thomas Lackemann. All rights reserved.
+//  Created by Thomas Lackemann on 12/21/16.
+//  Copyright © 2016 Facebook. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
-@interface RNCubeTransition : NSObject
+@interface RNCubeTransition : UIView
 
 @end

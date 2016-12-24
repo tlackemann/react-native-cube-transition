@@ -1,0 +1,27 @@
+{
+  "name": "react-native-cube-transition",
+  "version": "0.1.0",
+  "description": "React Native module for iOS that rotates components on a cube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlackemann/react-native-cube-transition.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react",
+    "ios",
+    "cube",
+    "transition"
+  ],
+  "author": "Thomas Lackemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tlackemann/react-native-cube-transition/issues"
+  },
+  "homepage": "https://github.com/tlackemann/react-native-cube-transition#readme"
+}
