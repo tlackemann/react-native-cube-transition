@@ -2,7 +2,7 @@
 
 React Native module for iOS that rotates components on a cube, similar to Instagram Stories.
 
-![](https://media.giphy.com/media/l3vRnfQanOVb6UTQc/source.gif)
+![](https://thumbs.gfycat.com/EachFirmImperatorangel-size_restricted.gif)
 
 ## Installation
 
